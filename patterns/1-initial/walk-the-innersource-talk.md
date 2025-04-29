@@ -48,6 +48,7 @@ and turns support into collaboration.
 are often used to working behind closed doors. Decision-making happens in meetings, documentation is internal or
 scattered, and ownership is unclear. Shifting to transparent, open collaboration requires both cultural change and a
 reevaluation of existing workflows.
+- Working in the open can feel scary - when everything is public, people might hold back from contributing because they worry their work isn't perfect enough. This fear of not being "good enough" can stop many valuable ideas from being shared.
 - People in central roles may fear scrutiny, overload from unsolicited input, or loss of control. Additionally, moving
 towards open collaboration demands more discipline in documentation, async communication, and community management -
 skills not always prioritized in internal tooling teams.
