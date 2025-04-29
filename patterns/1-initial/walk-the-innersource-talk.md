@@ -90,6 +90,7 @@ pull requests, reviews, contribution guidelines, etc.
 repositories.
 1. Encourage asynchronous collaboration, especially across locations and time zones, to foster inclusiveness and reduce
 dependency on synchronous coordination.
+1. Guide new contributors with patience and understanding, creating a welcoming environment where mistakes are seen as learning opportunities. Provide constructive feedback in a respectful and supportive manner, remembering that everyone was once a beginner.
 
 💡 Possible Resolutions
 
